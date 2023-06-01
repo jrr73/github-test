@@ -1,1 +1,3 @@
 done day1
+done day2
+done day3
